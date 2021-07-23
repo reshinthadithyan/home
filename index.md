@@ -9,7 +9,8 @@ This is **Reshinth Adithyan**(Not the below art), you can call me **Reshinth**. 
 working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> by the 🌌. 
 <p align="center">
   <img width="250" height="250" src="./images/logo.png">
-</p> 
+</p>     
+
 ## What are my interests ? 
 - Code Representation Learning.   
 - Geometric Representation Learning.   
