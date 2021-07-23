@@ -21,15 +21,13 @@ ___
 - Creative Coding.  
 
 ___   
+  
 
-<<<<<<< HEAD
 <p align="center">
   <img src="https://github.com/reshinthadithyan/home/blob/master/images/Black_Hole.png?raw=true" alt="Sublime's custom image"/>
 </p>
-=======
-![A minimal art](r"/images/Black_Hole.png")
 
->>>>>>> 64ce8051553b936ee303310185a1cceace07a923
+
 ___
 
 
