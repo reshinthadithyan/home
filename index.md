@@ -23,12 +23,6 @@ ___
 ___   
   
 
-<p align="center">
-  <img src="https://github.com/reshinthadithyan/home/blob/master/images/Black_Hole.png?raw=true" alt="Sublime's custom image"/>
-</p>
-
-
-___
 
 
 ## Brewing ☕ ...
@@ -43,4 +37,10 @@ ___
 - Ardent Fanatic of Impressionist Art`(Monet,Caillebotte)`, Music`(Debussy,Ravel,Satie)`.    
 
 ___    
-     
+
+<p align="center">
+  <img src="https://github.com/reshinthadithyan/home/blob/master/images/Black_Hole.png?raw=true" alt="Reshinth's thread art"/>
+</p>
+
+
+___
