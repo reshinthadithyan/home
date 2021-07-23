@@ -16,4 +16,16 @@ ___
 - Geometric Representation Learning.   
 - Naturalness in Code. 
 - Self-Supervised Learning.
-- _Creative Coding_
+- Material Science & Machine Learning.
+- Creative Coding.
+___
+## Brewing ☕ ...
+- Bio-Chemistry & Geometric Machine Learning.
+- Linguistics.
+___
+## Hobbies 🎵 ...
+- Independent Film Maker.
+- Musician/Composer.
+- Ardent Fanatic of Impressionist Art`(Monet,Caillebotte)`, Music`(Debussy,Ravel,Satie)`.
+___
+                     BUILDING THE SITE
