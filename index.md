@@ -12,13 +12,14 @@ working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> 
 ___
 
 ## What are my interests ? 
-- Code Representation Learning.   
+- Code Representation Learning. 
+- Parsers and Compilers.     
 - Geometric Representation Learning.   
 - Naturalness in Code. 
 - Self-Supervised Learning.
 - Material Science & Machine Learning.
 - Creative Coding.  
-- Parsers and Compilers.   
+
 
 ___
 
