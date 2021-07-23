@@ -22,8 +22,9 @@ ___
 
 ___   
 
-![](r"/images/Black_Hole.png")
-
+<p align="center">
+  <img src="https://github.com/reshinthadithyan/home/blob/master/images/Black_Hole.png?raw=true" alt="Sublime's custom image"/>
+</p>
 ___
 
 
