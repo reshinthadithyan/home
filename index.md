@@ -18,15 +18,22 @@ ___
 - Self-Supervised Learning.
 - Material Science & Machine Learning.
 - Creative Coding.  
-- Parsers and Compilers.      
+- Parsers and Compilers.   
+
 ___
+
+
 ## Brewing ☕ ...
 - Bio-Chemistry & Geometric Machine Learning.
-- Linguistics.     
+- Linguistics.       
+
 ___
+
 ## Hobbies 🎵 ...
 - [Independent Film Maker](https://www.youtube.com/channel/UCy4dxJ4zhY7QIW2zGv6sZcw).
 - [Musician/Composer](https://www.youtube.com/channel/UCy4dxJ4zhY7QIW2zGv6sZcw).
 - Ardent Fanatic of Impressionist Art`(Monet,Caillebotte)`, Music`(Debussy,Ravel,Satie)`.    
-___
+
+___    
+     
                      BUILDING THE SITE
