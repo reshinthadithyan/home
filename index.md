@@ -22,7 +22,7 @@ ___
 
 ___   
 
-![](r"/images/Black_Hole.png")
+![A minimal art](r"/images/Black_Hole.png")
 
 ___
 
