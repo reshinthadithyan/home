@@ -4,7 +4,7 @@ search_exclude: true
 image: images/logo.png
 ---
 
-| contact me : *reshinth dot adith at outlook dot com*
+contact me : *reshinth dot adith at outlook dot com*
 
 This is **Reshinth Adithyan**(Not the below art), you can call me **Reshinth**. I am a Researcher/Research Engineer working in the intersection of Machine Learning on Code by 🔆 and 
 working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> by the 🌌. 
@@ -22,8 +22,13 @@ ___
 
 ___   
   
-
-
+## What do I use 🛠️ ?  
+- [Pytorch](https://pytorch.org/) 
+- [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)
+-  Tensorflow
+- Jraph
+- Jison
+___
 
 ## Brewing ☕ ...
 - Bio-Chemistry & Geometric Machine Learning.
