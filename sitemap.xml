@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://reshinthadithyan.github.io/jupyter/2020/02/20/test.html</loc>
+<loc>https://reshinthadithyan.github.io/home/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://reshinthadithyan.github.io/about/</loc>
+<loc>https://reshinthadithyan.github.io/home/about/</loc>
 </url>
 <url>
-<loc>https://reshinthadithyan.github.io/</loc>
+<loc>https://reshinthadithyan.github.io/home/</loc>
 </url>
 <url>
-<loc>https://reshinthadithyan.github.io/search/</loc>
+<loc>https://reshinthadithyan.github.io/home/search/</loc>
 </url>
 <url>
-<loc>https://reshinthadithyan.github.io/_pages/tags.html</loc>
-<lastmod>2021-07-25T20:27:41-05:00</lastmod>
+<loc>https://reshinthadithyan.github.io/home/_pages/tags.html</loc>
+<lastmod>2021-07-25T20:37:32-05:00</lastmod>
 </url>
 </urlset>
