@@ -5,8 +5,6 @@ permalink: /projects/
 ---
 
 To start with my projects, I use,
-
-___   
   
 ## What do I use 🛠️ ?  
 - [Pytorch](https://pytorch.org/) - For training Deep Neural Networks.
