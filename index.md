@@ -9,7 +9,8 @@ contact me : [reshinth.adith@gmail.com](mailto:reshinth.adith@gmail.com)
 This is **Reshinth Adithyan**, you can call me **Reshinth**. I am a Researcher/Research Engineer working in the intersection of Machine Learning for Code Representation Learning by 🔆 and 
 working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> by  🌌 _(out of passion for Alloy Science)_.    
 
-I have started to liking the process of writing parsers. I love using Bison based parsing tools(Jison). _Have started to write Parsers without Shift Reduce Conflict_ **[Bad Joke]** 
+I have started to liking the process of writing parsers. I love using Bison based parsing tools(Jison). _Have started to write Parsers without Shift Reduce Conflict_ **[Bad Joke]**   
+
 ___
 ## Have a look at my research proposal(s) :
 - [Intrinsic Evaluation in Models trained on Source Code](assets/files/intrinsic_eval_proposal.pdf)
