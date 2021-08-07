@@ -18,5 +18,5 @@ ___
 
 ## Some of the Research/Engineering Projects I have built ?
 
-1) [Transcoder - Unsupervised Code-Code Translation ](https://github.com/reshinthadithyan/hf_jax_transcoder_mini) - As a part of HuggingFace Jax/Flax Community Event, built a Java-Csharp Translation Model with no parallel corpora.
+1) [Transcoder - Unsupervised Code-Code Translation ](https://github.com/reshinthadithyan/hf_jax_transcoder_mini) - As a part of HuggingFace Jax/Flax Community Event, built a Java-Csharp Translation Model with no parallel corpora.    
 2) [Bash Command Synthesis with highest Parsability Score]() - Generating Syntactically Correct Bash Command from Natural Language Prompt.
