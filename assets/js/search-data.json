@@ -16,16 +16,16 @@
   
 
   
-      ,"page1": {
-          "title": "About Me",
+
+  
+      ,"page2": {
+          "title": "Projects",
           "content": "",
-          "url": "https://reshinthadithyan.github.io/home/about/",
-          "relUrl": "/about/",
+          "url": "https://reshinthadithyan.github.io/home/projects/",
+          "relUrl": "/projects/",
           "date": ""
       }
       
-  
-
   
 
   
