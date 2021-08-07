@@ -20,7 +20,7 @@
   
       ,"page2": {
           "title": "Projects",
-          "content": "",
+          "content": "To start with my projects, I use, . . What do I use 🛠️ ? . Pytorch - For training Deep Neural Networks. | Pytorch Geometric - For training Graph Neural Networks. | Tensorflow - For training Deep Neural Networks. | Jraph - For training Graph Neural Networks. | Jison - For writing Parsers. | Transformers - For Transformer based Language Models. ___ | . What have I built ? . | .",
           "url": "https://reshinthadithyan.github.io/home/projects/",
           "relUrl": "/projects/",
           "date": ""
