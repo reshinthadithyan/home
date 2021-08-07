@@ -13,9 +13,9 @@ I have started to liking the process of writing parsers. I generally use Bison b
 
 ___
 ## Have a look at my research proposal(s) :
-- [Intrinsic Evaluation in Models trained on Source Code](assets/files/intrinsic_eval_proposal.pdf)
+- [Intrinsic Evaluation in Models trained on Source Code](assets/files/intrinsic_eval_proposal.pdf)   
 
-
+___
 ## What are my research interests ? 
 - Code Representation Learning. 
 - Parsers and Compilers.     
