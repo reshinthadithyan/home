@@ -10,6 +10,9 @@ This is **Reshinth Adithyan**, you can call me **Reshinth**. I am a Researcher/R
 working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> by  🌌. 
     
 ___
+## Want to have a look on my Research Proposal ?
+- [Intrinsic Evaluation in Models trained on Source Code](assets/files/intrinsic_eval_proposal.pdf)
+
 
 ## What are my research interests ? 
 - Code Representation Learning. 
