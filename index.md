@@ -11,6 +11,13 @@ working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> 
 
 I have started to liking the process of writing parsers(Not just code, but also _musical notations_). I generally use Bison based parsing tools(Jison). _Have started to write Parsers without Shift Reduce Conflict_ **[Bad Joke]**   
 
+___  
+
+## Projects with code representation learning:
+- [Code Representation Learning](https://huggingface.co/spaces/reshinthadith/code-representation-learning) is a collective of a Machine Learning on Code tasks, which are ready to showcase using HuggingFace Spaces.
+<p align="center">
+  <img src="https://github.com/reshinthadithyan/home/blob/master/images/app_trial.png?raw=true" alt="Bash Synthesis"/>
+</p>
 ___
 ## Have a look at my research proposal(s) :
 - [Intrinsic Evaluation in Models trained on Source Code](assets/files/intrinsic_eval_proposal.pdf)   
@@ -24,18 +31,6 @@ ___
 - Self-Supervised Learning.
 - [Material Science & Machine Learning.](https://sites.google.com/view/mldmm-lab/blog/glassberta-unsupervised-pre-training-for-glass-alloys?authuser=0)
 - Creative Coding.  
-
-___   
-  
-## What do I use 🛠️ ?  
-- [Pytorch](https://pytorch.org/) 
-- [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)
--  Tensorflow
-- Jraph
-- Jison   
-
-___
-
 
 ## Brewing ☕ ...
 - Bio-Chemistry & Geometric Machine Learning.
