@@ -32,9 +32,9 @@ ___
 - [Material Science & Machine Learning.](https://sites.google.com/view/mldmm-lab/blog/glassberta-unsupervised-pre-training-for-glass-alloys?authuser=0)
 - Creative Coding.  
 
-## Brewing ☕ ...
+<!-- ## Brewing ☕ ...
 - Bio-Chemistry & Geometric Machine Learning.
-- Linguistics.       
+- Linguistics.        -->
 
 ___
 
