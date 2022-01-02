@@ -6,17 +6,16 @@ image: images/logo.png
 
 contact me : [reshinth.adith@gmail.com](mailto:reshinth.adith@gmail.com)
 
-This is **Reshinth Adithyan**, you can call me **Reshinth**. I am a Researcher/Research Engineer working in the intersection of Machine Learning for Code Representation Learning by 🔆 and 
-working at <a href="https://sites.google.com/view/mldmm-lab/home">MLDMM Lab</a> by  🌌 _(out of passion for Alloy Science)_.    
+This is **Reshinth Adithyan**, you can call me **Reshinth**. I am a Researcher/Research Engineer working in the intersection of Machine Learning for Code Representation Learning by 🔆. Currently solving to solve Program Synthesis for Data Transformation.
 
 I have started to liking the process of writing parsers(Not just code, but also _musical notations_). I generally use Bison based parsing tools(Jison). _Have started to write Parsers without Shift Reduce Conflict_ **[Bad Joke]**   
 
 ___  
 
 ## Projects with code representation learning:
+- [GPT-Code-Clippy](https://huggingface.co/datasets/CodedotAI/code_clippy) - Was part of the core team in buiding the open source GitHub CoPilot during the huggingface flax/jax sprint.
 - [Code Representation Learning](https://huggingface.co/spaces/reshinthadith/code-representation-learning) is a collective of a Machine Learning on Code tasks, which are ready to showcase using HuggingFace Spaces.
-
-
+- [Type Inference as a Finetuning Task]() - A research project on Finetuning the codeT5 Model to infer the type of identifier in a given code snippet.
 - [Program Synthesis with FlashFill Dataset](https://huggingface.co/reshinthadith/FlashFill-T5) - Interpreted IO based program synthesis.
 
 ___
