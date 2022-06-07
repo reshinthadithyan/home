@@ -52,6 +52,13 @@ image: images/logo.png
         <li><strong>Deep Learning Tools :</strong> pytorch, jax, jraph, tensorflow, keras, huggingface Transformers, Pytorch Geometric. </li>
         <li><strong>Parser Generators :</strong>jison, python lex-yacc, antlr</li>
       </ul>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
       <footer>
         <p>CSS style adapted from <a href="https://spolu.vercel.app/">Stanislas Polu's Webpage</a> </p>
         <p><a href="mailto:reshinth.adith@gmail.com">contact me @ here</a></p>
